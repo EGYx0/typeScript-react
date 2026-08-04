@@ -1,4 +1,4 @@
-import { IPerson } from "../types/types";
+import type { IPerson } from "../types/types";
 
 export const Person = (props: IPerson) => {
   return (
